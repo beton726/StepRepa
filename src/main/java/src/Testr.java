@@ -6,6 +6,7 @@ public class Testr {
         System.out.println("Слздание алгоритма. Доработка его.");
         System.out.println("Слздание алгоритма 2.");
         System.out.println("Слздание алгоритма 3.");
+        System.out.println("Привет мир!!!");
     }
 
 }

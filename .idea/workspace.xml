@@ -13,7 +13,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be8d5cf5-4fc2-48a7-b0eb-9e001ee0148c" name="Default Changelist" comment="Доработка моего класса." />
+    <list default="true" id="be8d5cf5-4fc2-48a7-b0eb-9e001ee0148c" name="Default Changelist" comment="Доработка главного алгоритма.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="forever" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,7 +58,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
   <component name="RunManager" selected="JUnit.Solution">
     <configuration name="Kol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -108,8 +110,8 @@
         <item itemvalue="JUnit.Solution.testMethod" />
         <item itemvalue="JUnit.Solution" />
         <item itemvalue="Application.Kol" />
-        <item itemvalue="JUnit.Solution" />
         <item itemvalue="JUnit.Solution.testMethod" />
+        <item itemvalue="JUnit.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +138,35 @@
       <option name="project" value="LOCAL" />
       <updated>1631408928564</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Доработка моего алгоритма.">
+      <created>1631409729359</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631409729359</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Доработка главного алгоритма.">
+      <created>1631409763278</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631409763278</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Доработка главного алгоритма.">
+      <created>1631410592020</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631410592020</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Доработка главного алгоритма.">
+      <created>1631410801094</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631410801094</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,33 +184,35 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Новый проект." />
     <MESSAGE value="Доработка" />
-    <option name="LAST_COMMIT_MESSAGE" value="Доработка" />
+    <MESSAGE value="Доработка моего алгоритма." />
+    <MESSAGE value="Доработка главного алгоритма." />
+    <option name="LAST_COMMIT_MESSAGE" value="Доработка главного алгоритма." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1806" y="114" key="#Project_Structure" timestamp="1631049037411">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1806" y="114" key="#Project_Structure/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1631049037411" />
-    <state width="1877" height="244" key="GridCell.Tab.0.bottom" timestamp="1631135405164">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1323" height="126" key="GridCell.Tab.0.bottom" timestamp="1631411542176">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1877" height="244" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1631135405164" />
-    <state width="1338" height="295" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1631053102151" />
-    <state width="1877" height="244" key="GridCell.Tab.0.center" timestamp="1631135405164">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1323" height="126" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1631411542176" />
+    <state width="1323" height="126" key="GridCell.Tab.0.center" timestamp="1631411542176">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1877" height="244" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1631135405164" />
-    <state width="1338" height="295" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1631053102151" />
-    <state width="1877" height="244" key="GridCell.Tab.0.left" timestamp="1631135405163">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1323" height="126" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1631411542176" />
+    <state width="1323" height="126" key="GridCell.Tab.0.left" timestamp="1631411542160">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1877" height="244" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1631135405163" />
-    <state width="1338" height="295" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1631053102151" />
-    <state width="1877" height="244" key="GridCell.Tab.0.right" timestamp="1631135405164">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1323" height="126" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1631411542160" />
+    <state width="1323" height="126" key="GridCell.Tab.0.right" timestamp="1631411542176">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1877" height="244" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1631135405164" />
-    <state width="1338" height="295" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1631053102151" />
+    <state width="1323" height="126" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1631411542176" />
     <state width="1877" height="374" key="GridCell.Tab.1.bottom" timestamp="1631135392322">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
@@ -197,13 +229,21 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="374" key="GridCell.Tab.1.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1631135392322" />
-    <state x="184" y="29" key="SettingsEditor" timestamp="1631409040683">
+    <state x="64" y="42" width="1260" height="650" key="MergeDialog" timestamp="1631409845391">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1631409040683" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1631408805078">
+    <state x="64" y="42" width="1260" height="650" key="MergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1631409845391" />
+    <state x="321" y="145" key="MultipleFileMergeDialog" timestamp="1631409845399">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1631408805078" />
+    <state x="321" y="145" key="MultipleFileMergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1631409845399" />
+    <state x="184" y="29" key="SettingsEditor" timestamp="1631410730445">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1631410730445" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1631409905505">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1631409905505" />
   </component>
 </project>

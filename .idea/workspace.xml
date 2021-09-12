@@ -13,7 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be8d5cf5-4fc2-48a7-b0eb-9e001ee0148c" name="Default Changelist" comment="Доработка" />
+    <list default="true" id="be8d5cf5-4fc2-48a7-b0eb-9e001ee0148c" name="Default Changelist" comment="Доработка моего класса." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,6 +149,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Новый проект." />

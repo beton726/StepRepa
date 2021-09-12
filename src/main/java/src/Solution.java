@@ -8,7 +8,7 @@ public class Solution {
 
     @Test
     public void testMethod() {
-
+        System.out.println("Изменения.");
         System.out.println("Позиция: " + binarySearch(m, 10));
 
     }

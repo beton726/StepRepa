@@ -10,6 +10,9 @@ public class Solution {
     public void testMethod() {
         System.out.println("Изменения.");
         System.out.println("Позиция: " + binarySearch(m, 10));
+        System.out.println("Изменения 1.");
+        System.out.println("Изменения 2.");
+        System.out.println("Изменения 3.");
 
     }
 
